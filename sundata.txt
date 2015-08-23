@@ -1,0 +1,46 @@
+<table class="table">
+<thead>
+<tr>
+<th></th>
+<th>Start</th>
+<th>End</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Morning astronomical twilight</td>
+<td class="start">02:50</td>
+<td class="end">04:18</td>
+</tr>
+<tr>
+<td>Morning nautical twilight</td>
+<td class="start">04:18</td>
+<td class="end">05:15</td>
+</tr>
+<tr>
+<td>Morning civil twilight</td>
+<td class="start">05:15</td>
+<td class="end">05:56</td>
+</tr>
+<tr>
+<td>Sunrise and sunset</td>
+<td class="start">05:56</td>
+<td class="end">21:39</td>
+</tr>
+<tr>
+<td>Evening civil twilight</td>
+<td class="start">21:39</td>
+<td class="end">22:21</td>
+</tr>
+<tr>
+<td>Evening nautical twilight</td>
+<td class="start">22:21</td>
+<td class="end">23:18</td>
+</tr>
+<tr>
+<td>Evening astronomical twilight</td>
+<td class="start">23:18</td>
+<td class="end">00:46</td>
+</tr>
+</tbody>
+</table>
