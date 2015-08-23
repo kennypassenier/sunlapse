@@ -2,9 +2,9 @@ import smtplib
 import socket
 
 def send_email(to, subject, text):
-            gmail_user = "kennypybot@gmail.com"
-            gmail_pwd = "kabelzalm"
-            FROM = 'kennypybot@gmail.com'
+            gmail_user = ""
+            gmail_pwd = ""
+            FROM = ''
             TO = [str(to)] #must be a list
             SUBJECT = str(subject)
             TEXT = str(text)
@@ -25,4 +25,3 @@ def send_email(to, subject, text):
             except:
                 print("failed to send mail")
 test = str(socket.gethostbyname(socket.gethostname()))
-send_email("mendax1@gmail.com", "jow", test)
