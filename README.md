@@ -1,4 +1,4 @@
-#Sunlapse.py
+#sunlapse.py
 This script is for use with a Raspberry Pi and the official Raspberry Pi Camera Module.
 Once you run this, it should ask you how many days you want to capture.
 It will then ask you how long you want your movie file to be.
