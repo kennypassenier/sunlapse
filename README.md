@@ -9,4 +9,4 @@ Example:
 - So the script will take the equivalent of 15 seconds every day (15 seconds * 24 fps =  360 pictures)
 - If dawn is at 6am and dusk is at 6pm, it will take a picture every 2 minutes (30 pictures per hour * 12 hours = 360 pictures)
 
-After this is all said and done, the script will convert all those pictures into one .mp4 movie file..
+After this is all said and done, the script will convert all those pictures into one .mp4 movie file.
