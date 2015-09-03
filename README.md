@@ -10,3 +10,4 @@ Example:
 - If dawn is at 6am and dusk is at 6pm, it will take a picture every 2 minutes (30 pictures per hour * 12 hours = 360 pictures)
 
 After this is all said and done, the script will convert all those pictures into one .mp4 movie file.
+Check out the license info!
