@@ -53,7 +53,7 @@ def get_interesting_times(city_name):
     return dawn, dusk
 
 
-def get_timelapse_delay(dawn, dusk, total_runtime = '00:00:06', fps=24):
+def get_timelapse_delay(dawn, dusk, total_runtime = '00:10:00', fps=24):
     #Figure out how long we should delay between shooting frames.
     #Returns a float
     #The time from Astral are a day ahead, even though we explicitly set it.

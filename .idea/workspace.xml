@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="450f2e8b-c9a9-461b-ade1-14755ffb3004" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sunlapse2.py" afterPath="$PROJECT_DIR$/sunlapse2.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Sunset Scraper.iws" />
@@ -48,8 +49,8 @@
       <file leaf-file-name="sunlapse2.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sunlapse2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5591572" vertical-offset="743" max-vertical-offset="1360">
-              <caret line="66" column="3" selection-start-line="66" selection-start-column="3" selection-end-line="66" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.31118315" vertical-offset="743" max-vertical-offset="1360">
+              <caret line="57" column="20" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -501,7 +502,11 @@
       <created>1441308027511</created>
       <updated>1441308027511</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Changed timelapse duration">
+      <created>1441308097609</created>
+      <updated>1441308097609</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -840,8 +845,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sunlapse2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5591572" vertical-offset="743" max-vertical-offset="1360">
-          <caret line="66" column="3" selection-start-line="66" selection-start-column="3" selection-end-line="66" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.31118315" vertical-offset="743" max-vertical-offset="1360">
+          <caret line="57" column="20" selection-start-line="57" selection-start-column="20" selection-end-line="57" selection-end-column="20" />
           <folding />
         </state>
       </provider>
