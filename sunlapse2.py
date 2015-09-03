@@ -63,7 +63,7 @@ def get_timelapse_delay(dawn, dusk, total_runtime = '00:00:06', fps=24):
     seconds += (hours * 3600) + (minutes * 60)
     print('Time until dusk: {}'.format(time_til_dusk))
     total_seconds = time_til_dusk.total_seconds()
-    frame_delay = float(total_seconds) / (int(seconds) * fps)
+    frame_delay = float(total_seconds) / (seconds * fps)
     print('Delay: {}'.format(frame_delay))
     return frame_delay
 
