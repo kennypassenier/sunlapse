@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="450f2e8b-c9a9-461b-ade1-14755ffb3004" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sunlapse2.py" afterPath="$PROJECT_DIR$/sunlapse2.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Sunset Scraper.iws" />
@@ -498,7 +497,11 @@
       <created>1441307616750</created>
       <updated>1441307616750</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Changed timelapse duration">
+      <created>1441308027511</created>
+      <updated>1441308027511</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="ToolWindowManager">
